@@ -14,11 +14,15 @@
 		"CloseOtherWindows",
 		"Emmet",
 		"File Rename",
+		"FuzzyFileNav",
 		"Git",
 		"GitGutter",
 		"Hipster",
+		"jQuery",
 		"Material Theme",
+		"Materialized CSS Snippets",
 		"Package Control",
+		"Sass",
 		"Theme - Flatland"
 	]
 }
